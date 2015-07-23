@@ -1,1 +1,1 @@
-This is a web application.
+This is a web application. Using java to write the server and the jquery to write the client.
